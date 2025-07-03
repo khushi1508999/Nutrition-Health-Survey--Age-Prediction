@@ -1,6 +1,3 @@
-# Create the README.md content for the NHANES project
-readme_content = """# 👨‍⚕️ Predicting Senior or Adult Using NHANES Dataset
-
 **Hackathon Project | Summer Analytics 2025**  
 In collaboration with **Consulting & Analytics Club, IIT Guwahati**
 
